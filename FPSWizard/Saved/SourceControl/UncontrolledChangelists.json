@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/Fab/Enemies/Slime/BP_Slime.uasset",
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/Fab/Enemies/Slime/BTTask_Attack.uasset",
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/Fab/Wand/pp_free_fantasy_rpg_weapons_PP_Theme_07_Scepter_002.uasset",
+				"C:/Users/Matthew/Documents/Unreal_Projects/FPSWizardSetDress/FPSWizardNew/FPSWizard/Content/Fab/Wand/Bullet/BP_Bullet1.uasset",
 				"/Users/ciera628/Documents/GitHub/FPSWizardNew/FPSWizard/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
